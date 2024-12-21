@@ -1,4 +1,4 @@
-# Arbitration bot example using the Sonic testnet.
+# Farm bot example using the Sonic testnet.
 
 ## Installation
 
